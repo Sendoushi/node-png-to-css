@@ -1,0 +1,17 @@
+{
+  "name": "img-2-css",
+  "version": "0.0.0",
+  "description": "",
+  "main": "png2css.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-size": "^0.3.0",
+    "optimist": "^0.6.1",
+    "png-js": "^0.1.1",
+    "rgb2hex": "^0.1.0"
+  }
+}

@@ -1,0 +1,10 @@
+/node_modules
+/npm-debug.*
+/components
+/bower_components
+/app/config/parameters.json
+/web/petition.html
+/web/dev
+/web/prod
+/web/staging
+/tmp
