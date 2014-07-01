@@ -1,8 +1,8 @@
 {
-  "name": "img-2-css",
+  "name": "png-to-css",
   "version": "0.0.0",
   "description": "",
-  "main": "png2css.js",
+  "main": "pngtocss.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

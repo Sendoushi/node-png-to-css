@@ -1,4 +1,4 @@
-# PNG 2 CSS
+# PNG to CSS
 
 Just a node script made for fun.
 I wouldn't really use this in production.
@@ -12,7 +12,7 @@ NOTE: It ignores the pixels with transparency.
 // clone project
 // get inside the project folder
 npm install 
-node png2css.js [input] [output] [className]
+node pngtocss.js [input] [output] [className]
 
 ## Example of the output:
 [http://codepen.io/sendoushi/pen/FLecH](http://codepen.io/sendoushi/pen/FLecH)
