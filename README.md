@@ -8,13 +8,15 @@ You should reduce the size and number of colors from the image because the scrip
 
 NOTE: It ignores the pixels with transparency.
 
-## Usage:
+#### Usage:
+```
 // clone project
 // get inside the project folder
 npm install 
 node pngtocss.js [input] [output] [className]
+```
 
-## Example of the output:
+#### Example of the output:
 [http://codepen.io/sendoushi/pen/FLecH](http://codepen.io/sendoushi/pen/FLecH)
 
-# Have fun!
+## Have fun!
